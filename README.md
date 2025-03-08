@@ -24,7 +24,6 @@ TO CREATE A SYSTEM INTERFACING ESP8266 WITH IR SENSOR USING MQTT PROTOCOL
 
 ## PROCEDURE
 
-
 <br> Step 1 : Interface ESP8266 with IR Sensor.
 <br> Step 2 : Interface ESP8266 with MQTT protocol in arduino IDE.
 <br> Step 3 : Modify MQTT program with IR sensor factors to get desired outputs.
